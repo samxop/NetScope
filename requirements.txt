@@ -1,0 +1,35 @@
+# ==========================================
+# Network Packet Analyzer - Requirements
+# ==========================================
+
+# ---------- Packet Capture ----------
+pyshark
+
+# ---------- GUI ----------
+PySide6
+
+# ---------- Data Processing ----------
+pandas
+numpy
+
+# ---------- Visualization ----------
+matplotlib
+
+# ---------- Scientific / Statistics ----------
+scipy
+
+# ---------- PCAP / Packet Processing ----------
+scapy
+
+# ---------- Configuration / Utilities ----------
+PyYAML
+
+# ---------- Export / File Handling ----------
+openpyxl
+
+# ---------- Testing ----------
+pytest
+
+# ---------- Code Quality ----------
+black
+flake8
